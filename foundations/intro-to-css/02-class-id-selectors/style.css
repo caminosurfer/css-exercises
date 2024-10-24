@@ -1,0 +1,19 @@
+.uneven {
+    background-color: rgb(238, 173, 173);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#coolclass {
+    font-size: 24px;
+}
+
+.even#numbertwo {
+    color: rgb(39, 74, 177);
+    font-size: 36px;
+    
+}
+.even#numberfour {
+    background-color: rgb(93, 219, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
